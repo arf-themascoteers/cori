@@ -1,0 +1,23 @@
+{
+  'name': 'Unimelb',
+  'state': 'Victoria',
+  'campuses': [
+    'Melbourne',
+    'Sothbank',
+    'Clayton'
+  ],
+  'students': [
+    {
+      'name': 'Cori',
+      'age': 20
+    },
+    {
+      'name': 'Zahra',
+      'age': 13
+    },
+    {
+      'name': 'Rokeya',
+      'age': 8
+    }
+  ]
+}
